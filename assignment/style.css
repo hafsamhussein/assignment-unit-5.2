@@ -1,0 +1,22 @@
+/* stylesheet.css */
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  main {
+    background-color: lightgrey;
+  }
+  
+  body {
+    margin: 0;
+    background-image: url(record.png);
+    background-repeat: repeat;
+  }
+  
+  main {
+    padding: 1em;
+  }
+  
